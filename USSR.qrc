@@ -1,8 +1,0 @@
-<RCC>
-  <qresource prefix="newPrefix">
-    <file>pictures/choice_image.jpg</file>
-    <file>pictures/flag.jpg</file>
-    <file>pictures/Rectangle 1.png</file>
-    <file>pictures/Rectangle 2.png</file>
-  </qresource>
-</RCC>
